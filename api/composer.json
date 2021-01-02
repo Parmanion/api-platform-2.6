@@ -9,7 +9,7 @@
         "composer/package-versions-deprecated": "^1.11",
         "doctrine/annotations": "^1.0",
         "doctrine/doctrine-bundle": "^2.1",
-        "doctrine/doctrine-migrations-bundle": "^3.0",
+        "doctrine/doctrine-migrations-bundle": "^3.0.2",
         "doctrine/orm": "^2.7",
         "guzzlehttp/guzzle": "^7.0",
         "nelmio/cors-bundle": "^2.1",
@@ -27,6 +27,7 @@
         "symfony/security-bundle": "5.2.*",
         "symfony/serializer": "5.2.*",
         "symfony/twig-bundle": "5.2.*",
+        "symfony/uid": "5.2.*",
         "symfony/validator": "5.2.*",
         "symfony/yaml": "5.2.*"
     },
